@@ -1,3 +1,6 @@
+data/glove.6B.50d.txt
+data/vectors.npy
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
